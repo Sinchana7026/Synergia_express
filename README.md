@@ -11,7 +11,7 @@ Create, view, update, and delete bookings
 Validates input and handles errors gracefully
 
  Setup
-git clone https://github.com/yourusername/synergia-event-booking-api.git
+git clone https://github.com/Sinchana7026/synergia-event-booking-api.git
 cd synergia-event-booking-api
 npm install
 node server.js
