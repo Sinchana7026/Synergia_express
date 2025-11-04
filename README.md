@@ -44,3 +44,5 @@ POST	/api/bookings	      Create booking
 GET	/api/bookings/:id	    Get booking by ID
 PUT	/api/bookings/:id	    Update booking
 DELETE	/api/bookings/:id	Cancel booking
+
+
